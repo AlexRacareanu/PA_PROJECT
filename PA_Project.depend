@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1716975498 source:c:\users\racar\documents\pa_project\pa_project\main.c
+	"Algorithms.h"
+
+1716974192 c:\users\racar\documents\pa_project\pa_project\algorithms.h
+
+1716993880 source:c:\users\racar\documents\pa_project\pa_project\algorithms.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	<time.h>
+

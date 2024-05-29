@@ -1,0 +1,12 @@
+int minSum();
+int maxSum();
+int minEmp();
+int maxEmp();
+int maxDif();
+int sumPag(int start, int end);
+void init();
+void solve();
+void left_solve(int emp);
+void right_solve(int emp);
+void result();
+void nr_elem_init();
